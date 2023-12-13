@@ -1,0 +1,151 @@
+body {
+    background: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navigation-box {
+    width: 1279px;
+    margin-left: 10px;
+}
+
+.logo-box {
+    width: 100px;
+    height: 80px;
+    flex-shrink: 0;
+    background: #FFF;
+}
+
+.logo-text-grow {
+    color: #000;
+    font-family: Gilroy-Bold, fantasy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.logo-text-be {
+    color: #F25822;
+    font-family: Gilroy-Bold, fantasy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.menu-box {
+    width: 556px;
+    height: 40px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.menu-links {
+    width: 533px;
+    height: 17px;
+    color: #000;
+    font-family: Gilroy-Medium, fantasy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.menu-link-home {
+    color: #F25822;
+    font-family: Gilroy-SemiBold, fantasy;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.content-box {
+    width: 1279px;
+    height: 480px;
+    margin-left: 10px;
+    margin-top: 15px;
+    padding-bottom: 500px;
+}
+
+.content-info-box {
+    width: 555px;
+    height: 460px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.content-header {
+    width: 522px;
+    height: 222px;
+    color: #000;
+    font-family: Gilroy-Bold, fantasy;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.content-text {
+    width: 466px;
+    height: 48px;
+    color: #888;
+    font-family: Gilroy-Medium, fantasy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+
+.content-button-box {
+    width: 374px;
+    height: 94px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.content-start-button {
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.20);
+    color: #FFF;
+    font-family: Gilroy-Bold, fantasy;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+}
+
+.content-watch-string {
+    color: #AAA;
+    font-family: Gilroy-Bold, fantasy;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.content-img-box {
+    width: 550px;
+    height: 380px;
+    flex-shrink: 0;
+    margin-left: 10px;
+    margin-top: 60px;
+}
+
+.partners-logo-box {
+    width: 1279px;
+    height: 60px;
+    flex-shrink: 0;
+    margin-top: 50px;
+    margin-left: 10px;
+}
